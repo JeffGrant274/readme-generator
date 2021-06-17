@@ -3,7 +3,6 @@
 function generateMarkdown(data) {
   console.log(data);
   return `# ${data.title}
-  ${data.licenses}
 
 # Description
 
